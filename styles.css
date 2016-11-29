@@ -1,0 +1,19 @@
+
+
+body {background: red;
+		color: white;
+		font-size: 16pt;
+		font-family: cambria;}
+		
+		
+h1 {font-size:200%;
+	font-weight: bold;
+	text-decoration: none;}
+	
+NAV LI {display: inline-block;
+		border: 2px solid black;
+		padding: 5px}
+
+a { color: white}
+
+a:hover {color: black}
